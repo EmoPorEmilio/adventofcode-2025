@@ -66,7 +66,6 @@ for (const range of ranges!) {
     let end = parseInt(range.split("-")[1]!);
 
     for (let i = start; i <=end; i++) {
-        
         if (hasRepeatedAtLeastTwice(i)) {
             console.log(i);
             sum += i;
