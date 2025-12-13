@@ -1,0 +1,10 @@
+[workspace]
+authors = ["Emilio Franceschini <franceschini.emilio@gmail.com>"]
+channels = ["conda-forge"]
+name = "adventofcode-2025"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
